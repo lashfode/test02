@@ -1,0 +1,10 @@
+C:\Users\AI11\source\repos\place22\place22\bin\Debug\place22.exe.config
+C:\Users\AI11\source\repos\place22\place22\bin\Debug\place22.exe
+C:\Users\AI11\source\repos\place22\place22\bin\Debug\place22.pdb
+C:\Users\AI11\source\repos\place22\place22\obj\Debug\place22.csproj.AssemblyReference.cache
+C:\Users\AI11\source\repos\place22\place22\obj\Debug\place22.Form1.resources
+C:\Users\AI11\source\repos\place22\place22\obj\Debug\place22.Properties.Resources.resources
+C:\Users\AI11\source\repos\place22\place22\obj\Debug\place22.csproj.GenerateResource.cache
+C:\Users\AI11\source\repos\place22\place22\obj\Debug\place22.csproj.CoreCompileInputs.cache
+C:\Users\AI11\source\repos\place22\place22\obj\Debug\place22.exe
+C:\Users\AI11\source\repos\place22\place22\obj\Debug\place22.pdb
